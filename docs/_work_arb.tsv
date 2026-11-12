@@ -1,0 +1,438 @@
+, last verified ${_formatLicenseDate(verifiedAt.toLocal())}	，上次验证 ${_formatLicenseDate(verifiedAt.toLocal())}	, last verified ${_formatLicenseDate(verifiedAt.toLocal())}
+, offline until ${_formatLicenseDate(status.offlineGraceUntil!.toLocal())}	，离线可用至 ${_formatLicenseDate(status.offlineGraceUntil!.toLocal())}	, offline until ${_formatLicenseDate(status.offlineGraceUntil!.toLocal())}
+$appCount apps found	已发现 $appCount 个应用	$appCount apps found
+$binding. The license server is temporarily unavailable$verified$grace.	$binding。授权服务器暂时不可用$verified$grace。	$binding. The license server is temporarily unavailable$verified$grace.
+$featureName is a Flare membership feature. A 7-day free trial is available. After purchase, membership benefits apply to one Windows 11 or later PC for the current major version.	$featureName 属于 Flare 会员功能。支持 7 天免费试用，正式购买后可在一台 Windows 11 及以上电脑上使用当前主版本会员权益。	$featureName is a Flare membership feature. A 7-day free trial is available. After purchase, membership benefits apply to one Windows 11 or later PC for the current major version.
+$hiddenCount apps hidden	已隐藏 $hiddenCount 个应用	$hiddenCount apps hidden
+$kAppName has an available update.	$kAppName 有可用更新。	$kAppName has an available update.
+5+ devices	5 台起	5+ devices
+7-Day Trial	7 天试用	7-Day Trial
+A wallpaper is applied to the launchpad background immediately after selection.	添加壁纸后会立即应用到启动台背景。	A wallpaper is applied to the launchpad background immediately after selection.
+About	关于	About
+Activate	激活	Activate
+Activated	已激活	Activated
+Activated successfully	激活成功	Activated successfully
+Activation code	激活码	Activation code
+Activation failed	激活失败	Activation failed
+Activation Management	激活管理	Activation Management
+Activation restored	已恢复激活	Activation restored
+Payment page creation failed	支付页面创建失败	Payment page creation failed
+Adaptive Layout	智能适配屏幕	Adaptive Layout
+Add App Location	添加应用位置	Add App Location
+Add custom folders to include apps installed in other locations.	添加自定义文件夹，以包含安装在其他位置的应用。	Add custom folders to include apps installed in other locations.
+Add Flare Launchpad to the current user startup items	写入当前用户的 Windows 启动项	Add Flare Launchpad to the current user startup items
+Start Minimized	启动时最小化	Start Minimized
+Keep Panels Open	保持弹窗	Keep Panels Open
+Keep settings, groups, and dialogs open after Flare is hidden	Flare 隐藏后保留设置、分组和弹窗状态	Keep settings, groups, and dialogs open after Flare is hidden
+Start in the system tray without showing the main window	启动后仅在系统托盘运行，不显示主窗口	Start in the system tray without showing the main window
+Add Icon Pack Folder	添加图标包文件夹	Add Icon Pack Folder
+Add Source Blacklist Rule	添加应用来源黑名单	Add Source Blacklist Rule
+Add Wallpaper	添加壁纸	Add Wallpaper
+Additional App Locations	其他应用位置	Additional App Locations
+All	所有	All
+All features unlocked	全功能解锁	All features unlocked
+and	和	and
+Appearance	外观	Appearance
+Applied ${_folderDisplayName(trimmed)} to ${entry.name}	已为 ${entry.name} 使用 ${_folderDisplayName(trimmed)}	Applied ${_folderDisplayName(trimmed)} to ${entry.name}
+Applied the adaptive glass icon to ${entry.name}	已为 ${entry.name} 使用玻璃自适应图标	Applied the adaptive glass icon to ${entry.name}
+Applied the macOSicons icon	已应用 macOSicons 图标	Applied the macOSicons icon
+Applied the local icon to ${entry.name}	已为 ${entry.name} 使用本地图标	Applied the local icon to ${entry.name}
+Apply	应用	Apply
+Apply the blacklist below to custom folders as well.	开启后，自定义文件夹也会套用下方黑名单。	Apply the blacklist below to custom folders as well.
+Apps matching whitelist names or paths are excluded from all filtering rules.	命中白名单名称或路径的应用不受任何过滤规则影响。	Apps matching whitelist names or paths are excluded from all filtering rules.
+Are you sure you want to uninstall ${entry.name}?	确定要卸载 ${entry.name} 吗？	Are you sure you want to uninstall ${entry.name}?
+Ascending	正序	Ascending
+Auto	自动	Auto
+Auto Refresh Apps	自动刷新应用目录	Auto Refresh Apps
+Background	背景	Background
+Backup	备份	Backup
+Base rules are always enabled. Enhanced filtering and source blacklist work independently.	基础规则始终启用；增强过滤和应用来源黑名单相互独立。	Base rules are always enabled. Enhanced filtering and source blacklist work independently.
+Best value	推荐	Best value
+Blur	模糊	Blur
+Bottom Left	仅左下	Bottom Left
+Bottom Right	仅右下	Bottom Right
+Built-in	内置	Built-in
+Built-in Blacklist	内置黑名单	Built-in Blacklist
+Built-in presets are enabled by default, and each rule can be toggled independently.	内置预设默认启用；每条规则可独立开关。	Built-in presets are enabled by default, and each rule can be toggled independently.
+Built-in Sample	默认	Built-in Sample
+Buy later to keep using Flare	到期后购买可继续使用	Buy later to keep using Flare
+Buy Now	立即购买	Buy Now
+By purchasing, you agree to	购买则代表同意	By purchasing, you agree to
+Cancel	取消	Cancel
+Check for Updates	检查更新	Check for Updates
+Choose 	选择 	Choose 
+Choose a folder that contains app icon images	选择包含应用图标图片的文件夹	Choose a folder that contains app icon images
+Choose Local Icon File	选择本地图标文件	Choose Local Icon File
+Choose a previously exported configuration backup.	选择此前导出的配置备份文件。	Choose a previously exported configuration backup.
+Choose an app folder to scan	选择要扫描的应用文件夹	Choose an app folder to scan
+Close	关闭	Close
+Close View	关闭显示	Close View
+Failed to apply local icon: $error	应用本地图标失败：$error	Failed to apply local icon: $error
+Columns	列数	Columns
+Compact Pages	紧凑页面	Compact Pages
+Configuration export is not supported in this environment	当前环境不支持配置导出	Configuration export is not supported in this environment
+Configuration exported	配置已导出	Configuration exported
+Configuration import is not supported in this environment	当前环境不支持配置导入	Configuration import is not supported in this environment
+Configuration imported and applied	配置已导入并生效	Configuration imported and applied
+Confirm	确定	Confirm
+Copy the icon image link from your browser, paste it here, then confirm.	从浏览器复制图标图片链接，粘贴到这里后确定。	Copy the icon image link from your browser, paste it here, then confirm.
+Contact Sales	联系销售	Contact Sales
+Continue	前往支付	Continue
+Copy	复制	Copy
+Create	创建	Create
+Create Group	新建分组	Create Group
+Create a group for this folder?	是否为此目录创建分组？	Create a group for this folder?
+Group $count newly added apps from $folder together?	将 $folder 中新添加的 $count 个应用创建为一个分组？	Group $count newly added apps from $folder together?
+Created group $group	已创建分组 $group	Created group $group
+Current device	当前设备	Current device
+Custom	自定义	Custom
+Custom appearance, icons, and app sources	自定义外观、图标与应用来源	Custom appearance, icons, and app sources
+Custom Folder	自定义目录	Custom Folder
+Custom Rule	自定义规则	Custom Rule
+Custom Rules	自定义规则	Custom Rules
+Custom Text Color	自定义文字颜色	Custom Text Color
+Custom text color applies to app names and group titles in the launchpad.	自定义颜色会应用到启动台应用名称和分组标题。	Custom text color applies to app names and group titles in the launchpad.
+Dark	深色	Dark
+Default	默认	Default
+Default App Sources	默认应用位置	Default App Sources
+Default Start Menu, Desktop, and installed app sources scanned by Flare Launchpad.	Windows 启动台默认扫描的开始菜单、桌面和已安装应用来源。	Default Start Menu, Desktop, and installed app sources scanned by Flare Launchpad.
+Descending	倒序	Descending
+Desktop	桌面	Desktop
+Device ID	设备标识	Device ID
+Device ID copied	设备标识已复制	Device ID copied
+Disabled	已停用	Disabled
+DisplayIcon and InstallLocation from the HKLM/HKCU Uninstall registry	HKLM/HKCU Uninstall 注册表中的 DisplayIcon 和 InstallLocation	DisplayIcon and InstallLocation from the HKLM/HKCU Uninstall registry
+Dissolve Group	解散分组	Dissolve Group
+Dissolved group $group	已解散分组 $group	Dissolved group $group
+Done	完成	Done
+Downloading icon for ${option.title}...	正在下载 ${option.title} 图标...	Downloading icon for ${option.title}...
+Download and Apply	下载并应用	Download and Apply
+Email: support@nocmt.com	邮箱：support@nocmt.com	Email: support@nocmt.com
+Effective on this screen: ${layoutSettings.columns} columns × ${layoutSettings.rows} rows, ${layoutSettings.iconSize.round()} icon	当前屏幕实际生效：${layoutSettings.columns} 列 × ${layoutSettings.rows} 行，图标 ${layoutSettings.iconSize.round()}	Effective on this screen: ${layoutSettings.columns} columns × ${layoutSettings.rows} rows, ${layoutSettings.iconSize.round()} icon
+Enhanced Filtering	增强过滤	Enhanced Filtering
+Enter alias	输入别名	Enter alias
+Enter Activation Code	输入激活码	Enter Activation Code
+Enter an activation code	请输入激活码	Enter an activation code
+Return to Trial	返回试用	Return to Trial
+Example: website|read ?me|license|version\s*\d+\.\d+	示例：官网|website|read ?me|license|版本\s*\d+\.\d+	Example: website|read ?me|license|version\s*\d+\.\d+
+Exit	退出	Exit
+Export	导出	Export
+Export Configuration	导出配置	Export Configuration
+Export or import launchpad settings. Imported settings apply immediately.	导出或导入启动台配置，导入后会立即生效。	Export or import launchpad settings. Imported settings apply immediately.
+Failed to apply Windows launcher settings	Windows 设置应用失败	Failed to apply Windows launcher settings
+Failed to open update link	打开更新地址失败	Failed to open update link
+Filter Custom Locations	过滤其他应用位置	Filter Custom Locations
+Filtering	过滤	Filtering
+Follow Global Icon Pack	跟随全局图标包	Follow Global Icon Pack
+Flare checks license status online at launch. If not activated, open Activation Management from the search menu.	Flare 会在启动时联网检查授权状态；若尚未激活，请从搜索框菜单打开激活管理。	Flare checks license status online at launch. If not activated, open Activation Management from the search menu.
+For teams, studios, or multi-device deployment. Contact us for 5 or more seats.	适合团队、工作室或多设备部署。5 台及以上可通过邮件沟通采购支持。	For teams, studios, or multi-device deployment. Contact us for 5 or more seats.
+Free	免费	Free
+Full access on this device	当前设备全功能试用	Full access on this device
+General	通用	General
+Group name	分组名称	Group name
+Have an Activation Code?	已有激活码	Have an Activation Code?
+Help, installers, updates, and web shortcuts	帮助、安装、更新和网页入口	Help, installers, updates, and web shortcuts
+Hidden ${entry.name}	已隐藏 ${entry.name}	Hidden ${entry.name}
+Hidden Apps	隐藏应用	Hidden Apps
+Hide App	隐藏应用	Hide App
+Hide Search Bar	隐藏搜索框	Hide Search Bar
+Hide Windows accessories, SDK samples, performance tools, WPS helper tools, and IME promotion links.	隐藏 Windows 附件、SDK 示例、性能工具、WPS 辅助工具和输入法推广链接。	Hide Windows accessories, SDK samples, performance tools, WPS helper tools, and IME promotion links.
+Hide help documents, uninstallers, setup wizards, update entry points, and URL shortcuts from Desktop or Start Menu.	隐藏帮助文档、卸载程序、安装向导、更新入口，以及桌面或开始菜单中的网址快捷方式。	Hide help documents, uninstallers, setup wizards, update entry points, and URL shortcuts from Desktop or Start Menu.
+Hide common system components, driver tools, and background helper processes to reduce false apps from registry scanning.	隐藏常见系统组件、驱动工具和后台辅助进程，减少注册表扫描带来的误识别应用。	Hide common system components, driver tools, and background helper processes to reduce false apps from registry scanning.
+Hide website links, readme files, version installers, and utility clutter.	隐藏官网入口、说明文件、版本安装包和工具杂项。	Hide website links, readme files, version installers, and utility clutter.
+High refresh rate and quick launch	高刷显示与快捷唤起	High refresh rate and quick launch
+Hot Corners	触发角	Hot Corners
+Icon	图标	Icon
+Icon download URL	图标下载地址	Icon download URL
+Open macOSicons in your browser, find an icon you like, right-click it, copy the image link, then paste it here.	访问失败，请打开浏览器访问 macOSicons，找到喜欢的图标后右键复制图片链接，再粘贴到这里。	Access failed. Open macOSicons in your browser, find an icon you like, right-click it, copy the image link, then paste it here.
+Icon Packs	图标包	Icon Packs
+Icon Size	图标大小	Icon Size
+Icon Spacing	图标间距	Icon Spacing
+Ignored ${info.displayVersion}	已忽略 ${info.displayVersion}	Ignored ${info.displayVersion}
+Ignore this version	忽略此版本	Ignore this version
+Import	导入	Import
+Import Configuration	导入配置	Import Configuration
+Installed	安装时间	Installed
+Installed Apps	已安装应用	Installed Apps
+Invoice and delivery coordination	可协助开票与交付安排	Invoice and delivery coordination
+Invalid icon URL	图标地址无效	Invalid icon URL
+Language	语言	Language
+Large	大	Large
+Larger	较大	Larger
+Later	稍后	Later
+Launch at Startup	开机时自动启动	Launch at Startup
+Layout	布局	Layout
+Left click to apply, right click to remove	左键点击应用，右键移除	Left click to apply, right click to remove
+License Status	授权状态	License Status
+License verification failed	授权验证未通过	License verification failed
+License verification failed: ${error.message}	授权验证未通过：${error.message}	License verification failed: ${error.message}
+License response is missing a signature	授权响应缺少签名	License response is missing a signature
+License signature format is invalid	授权签名格式无效	License signature format is invalid
+License signature is invalid	授权签名无效	License signature is invalid
+License device does not match	授权设备不匹配	License device does not match
+License content does not match	授权内容不匹配	License content does not match
+License token has expired	授权令牌已过期	License token has expired
+License entitlement has expired	授权权益已过期	License entitlement has expired
+This license is already bound to another device	该激活码已绑定其他设备	This license is already bound to another device
+The activation code is invalid or payment is incomplete	激活码无效或未完成支付	The activation code is invalid or payment is incomplete
+The license has expired	授权已过期	The license has expired
+The 7-day trial has ended	7 天试用已结束	The 7-day trial has ended
+Please enter a valid activation code	请输入有效激活码	Please enter a valid activation code
+License request failed	授权请求失败	License request failed
+Not activated. Open Activation Management from the search menu.	尚未激活，请从搜索框菜单打开激活管理。	Not activated. Open Activation Management from the search menu.
+, valid permanently	，永久有效	, valid permanently
+, valid until ${_formatDateOnly(entitlementExpiresAt.toLocal())}	，有效期至 ${_formatDateOnly(entitlementExpiresAt.toLocal())}	, valid until ${_formatDateOnly(entitlementExpiresAt.toLocal())}
+, last verified ${_formatDateOnly(verifiedAt.toLocal())}	，上次验证 ${_formatDateOnly(verifiedAt.toLocal())}	, last verified ${_formatDateOnly(verifiedAt.toLocal())}
+, offline until ${_formatDateOnly(status.offlineGraceUntil!.toLocal())}	，离线可用至 ${_formatDateOnly(status.offlineGraceUntil!.toLocal())}	, offline until ${_formatDateOnly(status.offlineGraceUntil!.toLocal())}
+Offline available: $code$expires$verified$grace. License status will refresh after the next successful connection.	当前可离线使用：$code$expires$verified$grace。下次成功联网后会刷新授权状态。	Offline available: $code$expires$verified$grace. License status will refresh after the next successful connection.
+Light	浅色	Light
+Location	位置	Location
+Locations	应用位置	Locations
+macOSicons download failed: $error	macOSicons 图标下载失败：$error	macOSicons download failed: $error
+Manage Apps	应用管理	Manage Apps
+Match image filenames to app names, case-insensitive. Recommended 512x512, minimum 128x128.	图片文件名匹配应用名称，不区分大小写；建议 512x512，最低 128x128。	Match image filenames to app names, case-insensitive. Recommended 512x512, minimum 128x128.
+Matched apps stay visible	命中不拦截	Matched apps stay visible
+Matches names and full paths	匹配名称和完整路径	Matches names and full paths
+Matches names and full paths when enabled	启用时匹配名称和完整路径	Matches names and full paths when enabled
+Membership Required	需要会员权益	Membership Required
+Minimize	最小化	Minimize
+More	更多	More
+Move to Group	移动到分组	Move to Group
+Name	名称	Name
+New version ${info.displayVersion} available	发现新版本 ${info.displayVersion}	New version ${info.displayVersion} available
+Next Page	后一页	Next Page
+No activation found	未找到可恢复授权	No activation found
+No blacklist rules yet	暂无黑名单规则	No blacklist rules yet
+No direct PNG icon found	没有找到可直接下载的 PNG 图标	No direct PNG icon found
+No matching macOSicons icon found	没有找到匹配的 macOSicons 图标	No matching macOSicons icon found
+No executable uninstaller was found, so Windows Apps settings was opened	未找到可执行卸载程序，已打开系统应用管理	No executable uninstaller was found, so Windows Apps settings was opened
+No folders yet	暂无文件夹	No folders yet
+No hidden apps	暂无隐藏应用	No hidden apps
+No icon packs yet	暂无图标包	No icon packs yet
+No payment required	无需付款	No payment required
+No Trial Needed	无需试用	No Trial Needed
+No whitelist rules yet	暂无白名单规则	No whitelist rules yet
+Not Activated	未激活	Not Activated
+Off	关闭	Off
+Offline Available	离线可用	Offline Available
+OK	确认	OK
+Online license verification failed: ${fallback.message ?? error.message}	授权联网验证失败：${fallback.message ?? error.message}	Online license verification failed: ${fallback.message ?? error.message}
+Online license verification failed: $fallbackReason	授权联网验证失败：$fallbackReason	Online license verification failed: $fallbackReason
+Open	打开	Open
+Opened the uninstaller for ${entry.name}	已打开 ${entry.name} 的卸载程序	Opened the uninstaller for ${entry.name}
+Open Folder	打开目录	Open Folder
+Open Group	打开分组	Open Group
+Order	排序	Order
+Own the current major version for one Windows 11 or later PC.	当前主版本永久使用，绑定 1 台 Windows 11 及以上电脑。	Own the current major version for one Windows 11 or later PC.
+Permanent	永久	Permanent
+Press keys...	按下组合键...	Press keys...
+Previous Page	前一页	Previous Page
+Privacy Policy	《隐私政策》	Privacy Policy
+Recent	最近启动	Recent
+Reduce rows and columns or shrink icons on smaller screens to avoid overflow	换到较小屏幕时自动减少行列或缩小图标，避免内容溢出	Reduce rows and columns or shrink icons on smaller screens to avoid overflow
+Reflow apps to fill pages and reduce empty pages	重新排列 App 以填满页面并减少空白页	Reflow apps to fill pages and reduce empty pages
+Remove from Group	移出分组	Remove from Group
+Removed ${entry.name} from its group	已将 ${entry.name} 移出分组	Removed ${entry.name} from its group
+Remove Icon Pack	删除图标包	Remove Icon Pack
+Remove Last Location	移除最后一个应用位置	Remove Last Location
+Remove Rule	删除规则	Remove Rule
+Rename	重命名	Rename
+Rename ${entry.name}	重命名 ${entry.name}	Rename ${entry.name}
+Rename Group	重命名分组	Rename Group
+Rescan after location or custom folder changes	位置开关或自定义目录变化后会重新扫描	Rescan after location or custom folder changes
+Restart	重启	Restart
+Restore	恢复显示	Restore
+Restore Activation	恢复激活	Restore Activation
+Restore All	恢复全部	Restore All
+Restore Default Icon	还原默认图标	Restore Default Icon
+Selected icon must be ICO, PNG, JPG, JPEG, or WebP, at least 128x128.	请选择 ICO、PNG、JPG、JPEG 或 WebP 图标，尺寸至少为 128x128 像素。	Selected icon must be ICO, PNG, JPG, JPEG, or WebP, at least 128x128.
+Restored the default icon for ${entry.name}	已还原 ${entry.name} 默认图标	Restored the default icon for ${entry.name}
+Rows	行数	Rows
+Save	保存	Save
+Search	搜索	Search
+Search apps by name	输入应用名搜索	Search apps by name
+Search failed: $error	搜索失败：$error	Search failed: $error
+Search, drag sorting, and groups	搜索、拖拽排序与分组	Search, drag sorting, and groups
+Settings	设置	Settings
+Settings applied	设置已生效	Settings applied
+Set ${entry.name} to follow the global icon pack	已让 ${entry.name} 跟随全局图标包	Set ${entry.name} to follow the global icon pack
+Showing as configured: ${settings.columns} columns × ${settings.rows} rows, ${settings.iconSize.round()} icon	当前按配置显示：${settings.columns} 列 × ${settings.rows} 行，图标 ${settings.iconSize.round()}	Showing as configured: ${settings.columns} columns × ${settings.rows} rows, ${settings.iconSize.round()} icon
+Shared Desktop	公共桌面	Shared Desktop
+Shared Start Menu	公共开始菜单	Shared Start Menu
+Shortcut	快捷键	Shortcut
+Shortcut registration failed and may be in use by another app	快捷键注册失败，可能被其他应用占用	Shortcut registration failed and may be in use by another app
+Shortcut has been disabled	该快捷键已自动关闭	Shortcut has been disabled
+Show App Location Tags	显示应用位置标签	Show App Location Tags
+App Location Tags	应用位置标签	App Location Tags
+Show App Titles	显示应用标题	Show App Titles
+Show app names and group titles under launchpad icons	在启动台图标下方显示应用名称和分组标题。	Show app names and group titles under launchpad icons
+Hide App Titles	隐藏应用标题	Hide App Titles
+App Launch Animation	应用启动动效	App Launch Animation
+Show a brief loading indicator before opening an app	应用打开前短暂显示加载提示。	Show a brief loading indicator before opening an app
+Hide app names and group titles under launchpad icons	隐藏启动台图标下方的应用名称和分组标题。	Hide app names and group titles under launchpad icons
+Show Flare Launchpad when the cursor rests in selected screen corners	鼠标停在指定屏幕角落时显示 Flare Launchpad	Show Flare Launchpad when the cursor rests in selected screen corners
+Show in Explorer	在资源管理器显示	Show in Explorer
+Show or minimize Flare Launchpad	显示或最小化 Flare Launchpad	Show or minimize Flare Launchpad
+Small	小	Small
+Sort By	排序方式	Sort By
+Source Blacklist	应用来源黑名单	Source Blacklist
+Start from this app, unlock every feature, and decide if it fits your workflow.	通过客户端开启，全功能解锁，适合先确认是否适合自己的工作流。	Start from this app, unlock every feature, and decide if it fits your workflow.
+Start Menu	开始菜单	Start Menu
+Start Trial	开始试用	Start Trial
+System Blur	系统毛玻璃	System Blur
+System components and background executables	底层组件与辅助进程	System components and background executables
+System tools and helper folders	系统工具与辅助目录	System tools and helper folders
+Terms of Use	《用户协议》	Terms of Use
+Text Color	文字颜色	Text Color
+The configuration file format is invalid	配置文件格式不正确	The configuration file format is invalid
+The file name includes app name, timestamp, and version.	文件名会包含软件名称、日期时间和版本号。	The file name includes app name, timestamp, and version.
+Theme	主题	Theme
+This device is bound: $code	当前设备已绑定：$code	This device is bound: $code
+This device is using a 7-day trial: $code	当前设备正在使用 7 天试用：$code	This device is using a 7-day trial: $code
+This software only simplifies searching and downloading icons from macOSicons.com. Product purchase does not include this third-party content. Please consider visiting the official site to support their continued operation.	本软件仅简化您访问 macOSicons.com 搜索下载图标的流程，应用购买不包含此部分内容。建议您访问官网观看广告或打赏支持官方持续运营。	This software only simplifies searching and downloading icons from macOSicons.com. Product purchase does not include this third-party content. Please consider visiting the official site to support their continued operation.
+Top Left	仅左上	Top Left
+Top Right	仅右上	Top Right
+Trackpad Gestures	触控板手势	Trackpad Gestures
+Trial Active	试用中	Trial Active
+Trial started	试用已开启	Trial started
+Trial Used	已试用	Trial Used
+Turn scattered Windows app entry points into a clean and efficient launchpad.	把散落的 Windows 应用入口，整理成一个清爽高效的启动台。	Turn scattered Windows app entry points into a clean and efficient launchpad.
+Two-finger horizontal swipes follow the page and settle smoothly	双指横向滑动时页面跟随移动并自动回弹	Two-finger horizontal swipes follow the page and settle smoothly
+Unable to open Privacy Policy	无法打开隐私政策	Unable to open Privacy Policy
+Unable to open Stripe checkout	无法打开 Stripe 支付页面	Unable to open Stripe checkout
+Unable to open Terms of Use	无法打开用户协议	Unable to open Terms of Use
+Unable to open update link	无法打开更新地址	Unable to open update link
+Unable to start trial	无法开启试用	Unable to start trial
+Unable to connect to the license server	无法连接授权服务器	Unable to connect to the license server
+Uninstall	卸载	Uninstall
+Uninstall App	卸载应用	Uninstall App
+Uninstall failed, so Windows Apps settings was opened	卸载失败，已打开系统应用管理	Uninstall failed, so Windows Apps settings was opened
+Update available: ${update.displayVersion}	可更新到 ${update.displayVersion}	Update available: ${update.displayVersion}
+Update now	立即更新	Update now
+Use Adaptive Icon	使用自适应图标	Use Adaptive Icon
+Use Third-Party Icon	使用第三方图标	Use Third-Party Icon
+Useful for checking which Windows location an app comes from	用于排查应用来自哪个 Windows 目录	Useful for checking which Windows location an app comes from
+Version Too Old	版本过低	Version Too Old
+Volume Purchase	批量采购	Volume Purchase
+Volume purchase for 5+ devices	5 台及以上批量采购	Volume purchase for 5+ devices
+Wallpaper file not found	壁纸文件不存在	Wallpaper file not found
+Website	官网	Website
+Whitelist	白名单	Whitelist
+Windows Launchpad	Windows 启动台	Windows Launchpad
+The license server is temporarily unavailable, and offline mode is active	授权服务器暂时不可用，已进入离线可用状态	The license server is temporarily unavailable, and offline mode is active
+License verification failed. Please connect to the internet and try again.	授权联网验证失败，请联网后重试。	License verification failed. Please connect to the internet and try again.
+Local license cache verification failed. Please connect to the internet and try again.	授权缓存校验失败，请联网后重试。	Local license cache verification failed. Please connect to the internet and try again.
+The license server requires HTTPS	授权服务器要求使用 HTTPS	The license server requires HTTPS
+The license server returned an unexpected response	授权服务器返回异常	The license server returned an unexpected response
+The license server timed out	授权服务器响应超时	The license server timed out
+The license server connection failed	授权服务器连接异常	The license server connection failed
+Your current app version is too old. Please update from the official website.	当前应用程序版本过低，请前往官网更新应用程序。	Your current app version is too old. Please update from the official website.
+You already have the latest version	当前已是最新版本	You already have the latest version
+ icon	 图标	 icon
+Current version $kAppDisplayVersion	当前版本 $kAppDisplayVersion	Current version $kAppDisplayVersion
+Custom Color	自定义颜色	Custom Color
+Edit Custom Color	修改自定义颜色	Edit Custom Color
+Drag outside the group to remove the app	拖到分组外移出应用	Drag outside the group to remove the app
+No apps found	没有找到应用	No apps found
+$count apps added from this location	此位置新增 $count 个应用	$count apps added from this location
+No launchable shortcuts or applications were found in this location.	此位置未发现可启动的快捷方式或应用程序。	No launchable shortcuts or applications were found in this location.
+Skipped: $ruleFiltered filtered by rules, $duplicates duplicate entries, $builtInFiltered excluded by built-in rules.	未显示：$ruleFiltered 个被应用规则过滤，$duplicates 个与已有应用重复，$builtInFiltered 个被内置规则排除。	Skipped: $ruleFiltered filtered by rules, $duplicates duplicate entries, $builtInFiltered excluded by built-in rules.
+The selected app location is unavailable.	所选应用位置不可用。	The selected app location is unavailable.
+${option.downloads} downloads	${option.downloads} 次	${option.downloads} downloads
+Mild	轻度	Mild
+Launch failed	启动失败	Launch failed
+Windows did not report a successful launch state	Windows 没有返回成功启动状态	Windows did not report a successful launch state
+website|read ?me|license|version\s*\d+\.\d+	官网|website|read ?me|license|版本\s*\d+\.\d+	website|read ?me|license|version\s*\d+\.\d+
+Unable to open update installer	无法打开更新安装包	Unable to open update installer
+Failed to download update package	下载安装包失败	Failed to download update package
+Update download requires HTTPS.	更新下载必须使用 HTTPS。	Update download requires HTTPS.
+Update package checksum mismatch.	更新安装包校验失败。	Update package checksum mismatch.
+Downloading update package...	正在下载安装包...	Downloading update package...
+Failed to open update installer	打开更新安装包失败	Failed to open update installer
+Update download timed out.	更新下载超时。	Update download timed out.
+Update download URL is invalid.	更新下载地址无效。	Update download URL is invalid.
+Verifying update package...	正在校验更新包...	Verifying update package...
+Offline available until	离线可用至	Offline available until
+Offline available on this device.	当前设备可离线使用。	Offline available on this device.
+License status will refresh after the next successful connection.	下次成功联网后会刷新授权状态。	License status will refresh after the next successful connection.
+Fetching...	获取中	Fetching...
+Access failed. Open macOSicons in your browser, open the icon details, then 	访问失败，请打开浏览器访问 macOSicons，展开图标详情后，在	Access failed. Open macOSicons in your browser, open the icon details, then 
+right-click the download button	下载按键右击	right-click the download button
+ to copy the link and paste it here.	复制链接，再粘贴到这里。	 to copy the link and paste it here.
+Example	示例	Example
+Access failed. Open macOSicons in your browser, click to open the icon details, then open the context menu on the "	访问失败，请打开浏览器访问 macOSicons，点击展开图标详情后，在 "	Access failed. Open macOSicons in your browser, click to open the icon details, then open the context menu on the "
+Download	下载	Download
+" button to copy the link, then paste it here to trigger automatic download.	" 按键处唤起右键菜单复制链接，再粘贴到这里触发自动下载。	" button to copy the link, then paste it here to trigger automatic download.
+Advanced Settings	高级设置	Advanced Settings
+Launch Target	启动目标	Launch Target
+Launch Arguments	启动参数	Launch Arguments
+Run as Administrator	管理员运行	Run as Administrator
+Run Normally	普通权限运行	Run Normally
+Choose Application	选择应用	Choose Application
+Select a launch target	请选择启动目标	Select a launch target
+Launch target does not exist	启动目标不存在	Launch target does not exist
+Launch target must be a file	启动目标必须是文件	Launch target must be a file
+Reset	重置	Reset
+Advanced settings saved	高级设置已保存	Advanced settings saved
+Advanced settings reset	高级设置已重置	Advanced settings reset
+Arguments passed when launching the application	启动应用时传入的参数	Arguments passed when launching the application
+Windows will request administrator permission when this application starts	启动此应用时，Windows 将请求管理员权限	Windows will request administrator permission when this app starts
+Shortcut arguments are preserved and your arguments are appended	快捷方式原有参数会保留，并在后面追加你填写的参数	Keeps shortcut arguments, then appends yours
+Script arguments are passed to the associated interpreter and depend on the file association	参数将传给系统关联的解释器，实际效果取决于文件关联	Arguments go to the associated interpreter; behavior depends on file associations
+Microsoft Store apps do not support custom arguments or administrator mode	Microsoft Store 应用不支持自定义参数或管理员运行	Microsoft Store apps do not support arguments or administrator mode
+This file opens with the default app without custom arguments or administrator mode	此文件将用系统默认应用打开，不支持自定义参数或管理员运行	This file opens with the default app, without arguments or administrator mode
+Nine-Icon Folder Preview	九宫格分组	Nine-Icon Folder Preview
+Show up to nine app icons in group previews	分组图标最多显示九个应用	Show up to nine app icons in group previews
+Set as Home Screen	设为首屏	Set as Home Screen
+Home screen set to page $page	已设为首屏（第 $page 页）	Home screen set to page $page
+Open to Home Screen	显示时回到首屏	Open to Home Screen
+Show the home screen next time Flare Launchpad opens.	关闭后先回到首屏，下次显示 Flare Launchpad 时从首屏打开。	Show the home screen next time Flare Launchpad opens.
+File	文件	File
+Folder	文件夹	Folder
+Choose Folder	选择文件夹	Choose Folder
+Select a folder to open	选择要打开的文件夹	Select a folder to open
+Launch target must be a folder	启动目标必须是文件夹	Launch target must be a folder
+Folders open in File Explorer. Arguments and administrator mode are unavailable.	文件夹将通过文件资源管理器打开，不支持启动参数或管理员运行。	Folders open in File Explorer. Arguments and administrator mode are unavailable.
+Add Application	添加应用	Add Application
+Application	应用	Application
+Added to Launchpad	已添加到启动台	Added to Launchpad
+Delete Icon	删除图标	Delete Icon
+Remove this icon from Launchpad?	从启动台移除这个图标？	Remove this icon from Launchpad?
+The original file or folder will not be deleted.	原始文件或文件夹不会被删除。	The original file or folder will not be deleted.
+Icon removed from Launchpad	已从启动台移除图标	Icon removed from Launchpad
+An icon for this path already exists on page $page	该路径已有图标在第 $page 页	An icon for this path already exists on page $page
+An icon for this path already exists (hidden)	该路径已有图标（已隐藏）	An icon for this path already exists (hidden)
+Enhanced	增强	Enhanced
+Arrangement Mode	排列模式	Arrangement Mode
+Automatic Sorting	自动排序	Automatic Sorting
+Manual Layout	手动布局	Manual Layout
+Sorting Settings	排序设置	Sorting Settings
+Page Management	页面管理	Page Management
+Move Page Forward	向前移动本页	Move Page Forward
+Move Page Backward	向后移动本页	Move Page Backward
+Add Blank Page Before	在本页前新建空白页	Add Blank Page Before
+Add Blank Page After	在本页后新建空白页	Add Blank Page After
+Delete Page	删除本页	Delete Page
+System Target	系统目标	System Target
+Enter a Windows system target such as shell: or ms-settings:	输入 Windows 系统目标，例如 shell: 或 ms-settings:	Enter a Windows system target such as shell: or ms-settings:
+System target must start with shell: or ms-settings:	系统目标必须以 shell: 或 ms-settings: 开头	System target must start with shell: or ms-settings:
+System targets open through Windows. Arguments and administrator mode are unavailable.	系统目标将由 Windows 打开，不支持启动参数或管理员运行。	System targets open through Windows. Arguments and administrator mode are unavailable.
+Recycle Bin	回收站	Recycle Bin
+Windows Settings	Windows 设置	Windows Settings
+Windows Update	Windows 更新	Windows Update
+Lock Icon Layout	锁定图标布局	Lock Icon Layout
+Unlock Icon Layout	解锁图标布局	Unlock Icon Layout
+Prevent dragging, grouping, and page actions from changing your current layout	防止拖动、分组和页面操作意外改变当前布局	Prevent dragging, grouping, and page actions from changing your current layout
+Auto Fill	自动补位	Auto Fill
+Current Page	当前页	Current Page
+All Pages	所有页	All Pages
+Choose backup resources	选择要包含的备份资源	Choose backup resources
+Include local icon resources	包含本地图标资源	Include local icon resources
+Include imported icons and icon packs. Downloaded macOSicons are always included.	包含导入的图标和图标包。通过 macOSicons 下载的图标始终会包含。	Include imported icons and icon packs. Downloaded macOSicons are always included.
+Include custom wallpapers	包含自定义壁纸	Include custom wallpapers
+Include selected wallpaper files.	包含已选择的壁纸文件。	Include selected wallpaper files.
+When unchecked, only original file paths are saved.	取消勾选时，仅保存原始文件路径。	When unchecked, only original file paths are saved.
+Reset Appearance?	重置外观？	Reset Appearance?
+Reset Layout?	重置布局？	Reset Layout?
+This resets only appearance settings to their defaults. Other settings and app data will not be changed.	这只会将外观设置恢复为默认值，其他设置和应用数据不会改变。	This resets only appearance settings to their defaults. Other settings and app data will not be changed.
+This resets only layout settings to their defaults. Other settings and app data will not be changed.	这只会将布局设置恢复为默认值，其他设置和应用数据不会改变。	This resets only layout settings to their defaults. Other settings and app data will not be changed.

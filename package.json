@@ -1,0 +1,35 @@
+﻿{
+    "name":  "hai-launchpad",
+    "version":  "1.0.3",
+    "description":  "Hai Launchpad - a macOS-style launchpad for Windows (Electron)",
+    "main":  "src/main/main.js",
+    "scripts":  {
+                    "start":  "electron . --no-sandbox",
+                    "dev":  "electron . --no-sandbox --show --dev",
+                    "fetch-electron":  "node node_modules/electron/install.js",
+                    "shortcut":  "powershell -NoProfile -ExecutionPolicy Bypass -File tools/create-shortcut.ps1",
+                    "pack":  "node tools/build-portable.js"
+                },
+    "keywords":  [
+                     "launchpad",
+                     "electron",
+                     "windows"
+                 ],
+    "author":  {
+                   "name":  "hainuolangbuen-netizen"
+               },
+    "license":  "MIT",
+    "type":  "commonjs",
+    "devDependencies":  {
+                            "electron":  "^45.3.0"
+                        },
+    "productName":  "Hai Launchpad",
+    "repository":  {
+                       "type":  "git",
+                       "url":  "https://github.com/hainuolangbuen-netizen/hai-launchpad.git"
+                   },
+    "homepage":  "https://github.com/hainuolangbuen-netizen/hai-launchpad#readme",
+    "bugs":  {
+                 "url":  "https://github.com/hainuolangbuen-netizen/hai-launchpad/issues"
+             }
+}

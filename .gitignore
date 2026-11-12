@@ -1,0 +1,10 @@
+﻿node_modules/
+dist/
+work/
+installer/Output/
+installer/Languages/
+docs/frames/
+_unused/
+*.log
+.DS_Store
+Thumbs.db
